@@ -1,0 +1,1 @@
+was facing issue related to the folder that i have mistankenly created inside public folder instead of main root directory
